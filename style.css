@@ -1,6 +1,5 @@
-
 body {
-    background-color:darkblue;
+    background-color:linear-gradient(red, green);
     
 }
 h1 {
@@ -23,7 +22,7 @@ a{
     
 }
 a:hover {
-    color:hotpink;
+    color:greenyellow;
 }
 
 button {
